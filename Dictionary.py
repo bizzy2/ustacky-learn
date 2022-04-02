@@ -8,18 +8,18 @@ print (my_dict)
 # update dictionary
 my_dict['New'] = 'New data type'
 
-print ('*' * 200)
+print ('*' * 600)
 
 for i in my_dict:
     print (f'This are the keys -> {i}, with the corresponding values -> {my_dict[i]}')
 
-print ('*' * 200)
+print ('*' * 400)
 
 # for values alone
 for i in my_dict.values ():
     print (i)
 
-print ('*' * 200)
+print ('*' * 600)
 
 # for keys and values
 for key, value in my_dict.items ():
