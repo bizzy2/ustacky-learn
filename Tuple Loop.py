@@ -1,4 +1,4 @@
-data = ("me", "you", "family", "us", "others", "they")
+data = ("you", "you", "family", "us", "others", "they")
 for i in data:
     print (i)
 print('*'*150)
