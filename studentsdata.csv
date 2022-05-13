@@ -1,0 +1,13 @@
+,student_id,name,admitted_at,age,grade,entry_date,department,amount_paid
+0,1,Emmanuel Ayomide,01/09/2015,27,3.8,01/09/2015 13:21,Biochemistry,29200
+1,2,Ibrahim Musa,01/09/2017,24,4,01/09/2017 11:13,Biochemistry,31350
+2,3,Seson Obi,01/09/2016,24,3.7,01/09/2016 14:19,Sociology,30000
+3,4,Kevin Frank,01/09/2015,25,4,01/09/2015 10:11,Physics,26410
+4,5,Emeka Jude,01/09/2014,24,3.8,01/09/2014 15:12,Biochemistry,20200
+5,6,Caroline Obi,01/09/2013,27,3.3,01/09/2013 12:12,Electrical Engineering,42360
+6,7,Franklin Oladele,01/09/2019,18,3.9,01/09/2019 10:00,Sociology,21354
+7,8,Kola Ola,01/09/2013,28,4,01/09/2013 11:10,Electrical Engineering,26000
+8,9,Emmanuel Ovi,01/09/2016,23,3.3,01/09/2016 11:59,Statistics,42360
+9,10,Kareem Musa,01/09/2016,24,3.3,01/09/2016 10:11,Statistics,26050
+10,11,Mustopha Ahmed,01/09/2016,24,3.9,01/09/2016 15:11,Statistics,27110
+11,12,Femi Akin,01/09/2017,24,3,01/09/2017 0:11,Physics,26410
